@@ -1,0 +1,1915 @@
+[{
+	"name": "博格",
+	"id": "PASA002",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "兰利",
+	"id": "PASA004",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "4"
+}, {
+	"name": "独立",
+	"id": "PASA006",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "游骑兵",
+	"id": "PASA010",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "列克星敦",
+	"id": "PASA012",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "埃塞克斯",
+	"id": "PASA013",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "中途岛",
+	"id": "PASA015",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "塞班",
+	"id": "PASA507",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "企业",
+	"id": "PASA508",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "游骑兵",
+	"id": "PASA906",
+	"type": "cv",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "南卡罗莱纳",
+	"id": "PASB001",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "3"
+}, {
+	"name": "怀俄明",
+	"id": "PASB004",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "4"
+}, {
+	"name": "纽约",
+	"id": "PASB006",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "科罗拉多",
+	"id": "PASB008",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "北卡罗莱纳",
+	"id": "PASB012",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "阿肯色(Beta)",
+	"id": "PASB013",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "4"
+}, {
+	"name": "蒙大拿",
+	"id": "PASB017",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "依阿华",
+	"id": "PASB018",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "新墨西哥",
+	"id": "PASB034",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "亚利桑那",
+	"id": "PASB506",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "阿拉巴马",
+	"id": "PASB508",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "密苏里",
+	"id": "PASB509",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "马萨诸塞",
+	"id": "PASB518",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "德克萨斯",
+	"id": "PASB705",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "阿拉巴马(ST)",
+	"id": "PASB708",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "南卡罗莱纳",
+	"id": "PASB801",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "3"
+}, {
+	"name": "密西根",
+	"id": "PASB802",
+	"type": "bb",
+	"nation": "usa",
+	"tier": "3"
+}, {
+	"name": "伊利",
+	"id": "PASC001",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "1"
+}, {
+	"name": "切斯特",
+	"id": "PASC002",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "2"
+}, {
+	"name": "奥尔巴尼",
+	"id": "PASC003",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "2"
+}, {
+	"name": "圣·路易斯",
+	"id": "PASC004",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "3"
+}, {
+	"name": "奥马哈",
+	"id": "PASC005",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "亚特兰大",
+	"id": "PASC006",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "克利夫兰",
+	"id": "PASC007",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "彭萨科拉",
+	"id": "PASC012",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "新奥尔良",
+	"id": "PASC014",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "伍斯特",
+	"id": "PASC016",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "巴尔的摩",
+	"id": "PASC017",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "布法罗",
+	"id": "PASC019",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "德梅因",
+	"id": "PASC020",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "菲尼克斯",
+	"id": "PASC024",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "4"
+}, {
+	"name": "马布尔黑德",
+	"id": "PASC044",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "辛辛那提",
+	"id": "PASC045",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "盐湖城",
+	"id": "PASC106",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "阿斯托利亚",
+	"id": "PASC107",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "匹兹堡",
+	"id": "PASC108",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "布法罗",
+	"id": "PASC109",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "印第安纳波蒂斯",
+	"id": "PASC507",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "弗林特",
+	"id": "PASC707",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "萨勒姆",
+	"id": "PASC710",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "伊利",
+	"id": "PASC804",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "1"
+}, {
+	"name": "伊利",
+	"id": "PASC805",
+	"type": "cl",
+	"nation": "usa",
+	"tier": "1"
+}, {
+	"name": "桑普森",
+	"id": "PASD002",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "2"
+}, {
+	"name": "法拉格特",
+	"id": "PASD005",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "马汉",
+	"id": "PASD006",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "本森",
+	"id": "PASD008",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "基林",
+	"id": "PASD013",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "10"
+}, {
+	"name": "尼古拉斯",
+	"id": "PASD014",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "5"
+}, {
+	"name": "克莱蒙森",
+	"id": "PASD019",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "4"
+}, {
+	"name": "弗莱彻",
+	"id": "PASD021",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "维克斯",
+	"id": "PASD027",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "3"
+}, {
+	"name": "西姆斯",
+	"id": "PASD029",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "7"
+}, {
+	"name": "史密斯",
+	"id": "PASD502",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "2"
+}, {
+	"name": "莫纳干",
+	"id": "PASD506",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "6"
+}, {
+	"name": "基德",
+	"id": "PASD508",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "8"
+}, {
+	"name": "布莱克",
+	"id": "PASD709",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "9"
+}, {
+	"name": "桑普森",
+	"id": "PASD801",
+	"type": "dd",
+	"nation": "usa",
+	"tier": "2"
+}, {
+	"name": "厌战",
+	"id": "PBSB002",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "6"
+}, {
+	"name": "柏勒洛丰",
+	"id": "PBSB103",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "3"
+}, {
+	"name": "猎户座",
+	"id": "PBSB104",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "4"
+}, {
+	"name": "铁公爵",
+	"id": "PBSB105",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "5"
+}, {
+	"name": "伊丽莎白女王",
+	"id": "PBSB106",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "6"
+}, {
+	"name": "英王乔治五世",
+	"id": "PBSB107",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "君王",
+	"id": "PBSB108",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "8"
+}, {
+	"name": "狮",
+	"id": "PBSB109",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "9"
+}, {
+	"name": "征服者",
+	"id": "PBSB110",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "10"
+}, {
+	"name": "胡德",
+	"id": "PBSB507",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "纳尔逊",
+	"id": "PBSB517",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "约克公爵",
+	"id": "PBSB527",
+	"type": "bb",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "黑天鹅",
+	"id": "PBSC101",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "1"
+}, {
+	"name": "韦茅斯",
+	"id": "PBSC102",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "2"
+}, {
+	"name": "卡利登",
+	"id": "PBSC103",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "3"
+}, {
+	"name": "黛娜耶",
+	"id": "PBSC104",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "4"
+}, {
+	"name": "翡翠",
+	"id": "PBSC105",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "5"
+}, {
+	"name": "利安德",
+	"id": "PBSC106",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "6"
+}, {
+	"name": "斐济",
+	"id": "PBSC107",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "爱丁堡",
+	"id": "PBSC108",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "8"
+}, {
+	"name": "海王星",
+	"id": "PBSC109",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "9"
+}, {
+	"name": "米诺陶",
+	"id": "PBSC110",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "10"
+}, {
+	"name": "贝尔法斯特",
+	"id": "PBSC507",
+	"type": "cl",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "坎贝尔敦",
+	"id": "PBSD503",
+	"type": "dd",
+	"nation": "uk",
+	"tier": "3"
+}, {
+	"name": "英勇",
+	"id": "PBSD506",
+	"type": "dd",
+	"nation": "uk",
+	"tier": "6"
+}, {
+	"name": "哥萨克",
+	"id": "PBSD507",
+	"type": "dd",
+	"nation": "uk",
+	"tier": "7"
+}, {
+	"name": "蒂雷纳",
+	"id": "PFSB103",
+	"type": "bb",
+	"nation": "france",
+	"tier": "3"
+}, {
+	"name": "孤拔",
+	"id": "PFSB104",
+	"type": "bb",
+	"nation": "france",
+	"tier": "4"
+}, {
+	"name": "布列塔尼",
+	"id": "PFSB105",
+	"type": "bb",
+	"nation": "france",
+	"tier": "5"
+}, {
+	"name": "諾曼底",
+	"id": "PFSB106",
+	"type": "bb",
+	"nation": "france",
+	"tier": "6"
+}, {
+	"name": "里昂",
+	"id": "PFSB107",
+	"type": "bb",
+	"nation": "france",
+	"tier": "7"
+}, {
+	"name": "黎塞留",
+	"id": "PFSB108",
+	"type": "bb",
+	"nation": "france",
+	"tier": "8"
+}, {
+	"name": "阿尔萨斯",
+	"id": "PFSB109",
+	"type": "bb",
+	"nation": "france",
+	"tier": "9"
+}, {
+	"name": "共和",
+	"id": "PFSB110",
+	"type": "bb",
+	"nation": "france",
+	"tier": "10"
+}, {
+	"name": "敦刻尔克",
+	"id": "PFSB506",
+	"type": "bb",
+	"nation": "france",
+	"tier": "6"
+}, {
+	"name": "加斯科涅",
+	"id": "PFSB508",
+	"type": "bb",
+	"nation": "france",
+	"tier": "8"
+}, {
+	"name": "布干维尔",
+	"id": "PFSC101",
+	"type": "cl",
+	"nation": "france",
+	"tier": "1"
+}, {
+	"name": "尤里安·格拉维",
+	"id": "PFSC102",
+	"type": "cl",
+	"nation": "france",
+	"tier": "2"
+}, {
+	"name": "弗利昂",
+	"id": "PFSC103",
+	"type": "cl",
+	"nation": "france",
+	"tier": "3"
+}, {
+	"name": "迪盖·特鲁安",
+	"id": "PFSC104",
+	"type": "cl",
+	"nation": "france",
+	"tier": "4"
+}, {
+	"name": "白劳易",
+	"id": "PFSC105",
+	"type": "cl",
+	"nation": "france",
+	"tier": "5"
+}, {
+	"name": "加利索尼埃",
+	"id": "PFSC106",
+	"type": "cl",
+	"nation": "france",
+	"tier": "6"
+}, {
+	"name": "阿尔及利亚",
+	"id": "PFSC107",
+	"type": "cl",
+	"nation": "france",
+	"tier": "7"
+}, {
+	"name": "查理·马特",
+	"id": "PFSC108",
+	"type": "cl",
+	"nation": "france",
+	"tier": "8"
+}, {
+	"name": "路易九世",
+	"id": "PFSC109",
+	"type": "cl",
+	"nation": "france",
+	"tier": "9"
+}, {
+	"name": "亨利四世",
+	"id": "PFSC110",
+	"type": "cl",
+	"nation": "france",
+	"tier": "10"
+}, {
+	"name": "德·格拉斯",
+	"id": "PFSC506",
+	"type": "cl",
+	"nation": "france",
+	"tier": "6"
+}, {
+	"name": "鹰",
+	"id": "PFSD506",
+	"type": "dd",
+	"nation": "france",
+	"tier": "6"
+}, {
+	"name": "气旋",
+	"id": "PFSD605",
+	"type": "dd",
+	"nation": "france",
+	"tier": "5"
+}, {
+	"name": "齐柏林伯爵",
+	"id": "PGSA508",
+	"type": "cv",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "提尔比茨",
+	"id": "PGSB002",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "拿骚",
+	"id": "PGSB103",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "3"
+}, {
+	"name": "凯撒",
+	"id": "PGSB104",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "4"
+}, {
+	"name": "国王",
+	"id": "PGSB105",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "5"
+}, {
+	"name": "巴伐利亚",
+	"id": "PGSB106",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "格奈森瑙",
+	"id": "PGSB107",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "7"
+}, {
+	"name": "俾斯麦",
+	"id": "PGSB108",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "腓特烈大帝",
+	"id": "PGSB109",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "9"
+}, {
+	"name": "大选帝侯",
+	"id": "PGSB110",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "10"
+}, {
+	"name": "国王阿尔伯特",
+	"id": "PGSB503",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "3"
+}, {
+	"name": "沙恩霍斯特",
+	"id": "PGSB507",
+	"type": "bb",
+	"nation": "gremany",
+	"tier": "7"
+}, {
+	"name": "海梅茵",
+	"id": "PGSC001",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "1"
+}, {
+	"name": "德累斯顿",
+	"id": "PGSC002",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "2"
+}, {
+	"name": "科尔贝格",
+	"id": "PGSC103",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "3"
+}, {
+	"name": "卡尔斯鲁厄",
+	"id": "PGSC104",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "4"
+}, {
+	"name": "柯尼斯堡",
+	"id": "PGSC105",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "5"
+}, {
+	"name": "纽伦堡",
+	"id": "PGSC106",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "约克",
+	"id": "PGSC107",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "7"
+}, {
+	"name": "希佩尔海军上将",
+	"id": "PGSC108",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "鲁恩",
+	"id": "PGSC109",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "9"
+}, {
+	"name": "兴登堡",
+	"id": "PGSC110",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "10"
+}, {
+	"name": "埃姆登",
+	"id": "PGSC502",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "2"
+}, {
+	"name": "施佩伯爵海军上将",
+	"id": "PGSC506",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "欧根亲王",
+	"id": "PGSC508",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "HSF 施佩伯爵海军上将",
+	"id": "PGSC706",
+	"type": "cl",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "V-25",
+	"id": "PGSD102",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "2"
+}, {
+	"name": "G-101",
+	"id": "PGSD103",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "3"
+}, {
+	"name": "V-170",
+	"id": "PGSD104",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "4"
+}, {
+	"name": "T-22",
+	"id": "PGSD105",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "5"
+}, {
+	"name": "SK-22",
+	"id": "PGSD106",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "Z-1",
+	"id": "PGSD107",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "7"
+}, {
+	"name": "Z-23",
+	"id": "PGSD108",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "Z-46",
+	"id": "PGSD109",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "9"
+}, {
+	"name": "Z-52",
+	"id": "PGSD110",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "10"
+}, {
+	"name": "T-61",
+	"id": "PGSD506",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "6"
+}, {
+	"name": "Z-39",
+	"id": "PGSD508",
+	"type": "dd",
+	"nation": "gremany",
+	"tier": "8"
+}, {
+	"name": "尤利乌斯·凯撒",
+	"id": "PISB505",
+	"type": "bb",
+	"nation": "italy",
+	"tier": "5"
+}, {
+	"name": "罗马",
+	"id": "PISB508",
+	"type": "bb",
+	"nation": "italy",
+	"tier": "8"
+}, {
+	"name": "奥斯塔公爵",
+	"id": "PISC506",
+	"type": "cl",
+	"nation": "italy",
+	"tier": "6"
+}, {
+	"name": "阿布鲁兹公爵",
+	"id": "PISC507",
+	"type": "cl",
+	"nation": "italy",
+	"tier": "7"
+}, {
+	"name": "凤翔",
+	"id": "PJSA002",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "瑞凤",
+	"id": "PJSA006",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "龙骧",
+	"id": "PJSA009",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "飞龙",
+	"id": "PJSA011",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "翔鹤",
+	"id": "PJSA012",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "大凤",
+	"id": "PJSA015",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "9"
+}, {
+	"name": "白龙",
+	"id": "PJSA017",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "10"
+}, {
+	"name": "加贺",
+	"id": "PJSA507",
+	"type": "cv",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "河内",
+	"id": "PJSB001",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "妙义",
+	"id": "PJSB003",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "扶桑",
+	"id": "PJSB006",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "金刚",
+	"id": "PJSB007",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "石锤",
+	"id": "PJSB008",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "长门",
+	"id": "PJSB010",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "三笠",
+	"id": "PJSB011",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "2"
+}, {
+	"name": "天城",
+	"id": "PJSB013",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "大和",
+	"id": "PJSB018",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "10"
+}, {
+	"name": "出云",
+	"id": "PJSB021",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "9"
+}, {
+	"name": "陆奥",
+	"id": "PJSB506",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "爱鹰",
+	"id": "PJSB507",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "纪伊",
+	"id": "PJSB508",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "武藏",
+	"id": "PJSB509",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "9"
+}, {
+	"name": "海雾-金刚",
+	"id": "PJSB705",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "海雾-雾岛",
+	"id": "PJSB706",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "海雾-榛名",
+	"id": "PJSB707",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "海雾-比叡",
+	"id": "PJSB708",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "海雾-雾岛",
+	"id": "PJSB799",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "河内",
+	"id": "PJSB801",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "河内",
+	"id": "PJSB802",
+	"type": "bb",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "夕张",
+	"id": "PJSC004",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "古鹰",
+	"id": "PJSC005",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "青叶",
+	"id": "PJSC007",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "妙高",
+	"id": "PJSC008",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "最上",
+	"id": "PJSC009",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "伊吹",
+	"id": "PJSC012",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "9"
+}, {
+	"name": "球磨",
+	"id": "PJSC013",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "北上",
+	"id": "PJSC014",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "天龙",
+	"id": "PJSC015",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "利根",
+	"id": "PJSC018",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "岩木(Alpha)",
+	"id": "PJSC026",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "藏王",
+	"id": "PJSC034",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "10"
+}, {
+	"name": "筑摩",
+	"id": "PJSC035",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "2"
+}, {
+	"name": "桥立",
+	"id": "PJSC037",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "1"
+}, {
+	"name": "爱宕",
+	"id": "PJSC038",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "香取",
+	"id": "PJSC503",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "海雾-妙高",
+	"id": "PJSC705",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "海雾-足柄",
+	"id": "PJSC707",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "苍蓝-高雄",
+	"id": "PJSC708",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "海雾-羽黑",
+	"id": "PJSC709",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "朱雀",
+	"id": "PJSC717",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "青龙",
+	"id": "PJSC727",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "海雾-那智",
+	"id": "PJSC737",
+	"type": "cl",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "橘",
+	"id": "PJSD001",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "2"
+}, {
+	"name": "海风",
+	"id": "PJSD002",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "2"
+}, {
+	"name": "矶风",
+	"id": "PJSD003",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "峰风",
+	"id": "PJSD004",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "岛风",
+	"id": "PJSD012",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "10"
+}, {
+	"name": "樱",
+	"id": "PJSD014",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "神风 H",
+	"id": "PJSD017",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "若竹",
+	"id": "PJSD024",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "3"
+}, {
+	"name": "神风",
+	"id": "PJSD025",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "神风 R",
+	"id": "PJSD026",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "睦月",
+	"id": "PJSD105",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "5"
+}, {
+	"name": "吹雪",
+	"id": "PJSD106",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "晓",
+	"id": "PJSD107",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "秋月",
+	"id": "PJSD108",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "初春",
+	"id": "PJSD206",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "白露",
+	"id": "PJSD207",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "7"
+}, {
+	"name": "阳炎",
+	"id": "PJSD208",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "夕云",
+	"id": "PJSD209",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "9"
+}, {
+	"name": "朝潮",
+	"id": "PJSD518",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "东云号",
+	"id": "PJSD706",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "6"
+}, {
+	"name": "HSF 晴风",
+	"id": "PJSD708",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "8"
+}, {
+	"name": "矶风",
+	"id": "PJSD803",
+	"type": "dd",
+	"nation": "japan",
+	"tier": "4"
+}, {
+	"name": "沙皇尼古拉一世",
+	"id": "PRSB001",
+	"type": "bb",
+	"nation": "ussr",
+	"tier": "4"
+}, {
+	"name": "十月革命",
+	"id": "PRSB505",
+	"type": "bb",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "阿芙乐尔",
+	"id": "PRSC001",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "3"
+}, {
+	"name": "狄安娜",
+	"id": "PRSC002",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "摩尔曼斯克",
+	"id": "PRSC003",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "帕拉达",
+	"id": "PRSC010",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "奥尔兰",
+	"id": "PRSC101",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "诺维克",
+	"id": "PRSC102",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "英雄",
+	"id": "PRSC103",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "3"
+}, {
+	"name": "斯维特拉娜",
+	"id": "PRSC104",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "4"
+}, {
+	"name": "基洛夫",
+	"id": "PRSC105",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "布琼尼",
+	"id": "PRSC106",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "6"
+}, {
+	"name": "肖尔斯",
+	"id": "PRSC107",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "7"
+}, {
+	"name": "恰巴耶夫",
+	"id": "PRSC108",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "8"
+}, {
+	"name": "迪米特里·顿斯科伊",
+	"id": "PRSC109",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "9"
+}, {
+	"name": "莫斯科",
+	"id": "PRSC110",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "10"
+}, {
+	"name": "奥列格",
+	"id": "PRSC503",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "赤色克里米亚",
+	"id": "PRSC505",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "莫洛托夫",
+	"id": "PRSC506",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "6"
+}, {
+	"name": "米哈伊尔·库图佐夫",
+	"id": "PRSC508",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "8"
+}, {
+	"name": "喀琅施塔得",
+	"id": "PRSC509",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "8"
+}, {
+	"name": "瓦良格",
+	"id": "PRSC513",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "9"
+}, {
+	"name": "马卡洛夫海军上将号",
+	"id": "PRSC606",
+	"type": "cl",
+	"nation": "ussr",
+	"tier": "6"
+}, {
+	"name": "雷鸣",
+	"id": "PRSD001",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "守护",
+	"id": "PRSD102",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "2"
+}, {
+	"name": "无理",
+	"id": "PRSD103",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "3"
+}, {
+	"name": "伊贾斯拉夫",
+	"id": "PRSD104",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "4"
+}, {
+	"name": "乌达洛伊",
+	"id": "PRSD107",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "9"
+}, {
+	"name": "哈巴罗夫斯克",
+	"id": "PRSD110",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "10"
+}, {
+	"name": "波德沃伊斯基",
+	"id": "PRSD205",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "愤怒",
+	"id": "PRSD206",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "6"
+}, {
+	"name": "明斯克",
+	"id": "PRSD207",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "7"
+}, {
+	"name": "火力",
+	"id": "PRSD208",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "8"
+}, {
+	"name": "雷暴",
+	"id": "PRSD210",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "10"
+}, {
+	"name": "基辅",
+	"id": "PRSD308",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "8"
+}, {
+	"name": "塔什干",
+	"id": "PRSD409",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "9"
+}, {
+	"name": "猎人",
+	"id": "PRSD505",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "5"
+}, {
+	"name": "列宁格勒",
+	"id": "PRSD507",
+	"type": "dd",
+	"nation": "ussr",
+	"tier": "7"
+}, {
+	"name": "珀斯",
+	"id": "PUSC506",
+	"type": "cl",
+	"nation": "cn",
+	"tier": "6"
+}, {
+	"name": "吸血鬼",
+	"id": "PUSD503",
+	"type": "dd",
+	"nation": "cn",
+	"tier": "3"
+}, {
+	"name": "闪电",
+	"id": "PWSD501",
+	"type": "dd",
+	"nation": "po",
+	"tier": "7"
+}, {
+	"name": "地狱搬运者",
+	"id": "PXSA005",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Jackal",
+	"id": "PXSB001",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Rasputin",
+	"id": "PXSB002",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Zikasa",
+	"id": "PXSB003",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Magnu-S",
+	"id": "PXSB004",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Varg",
+	"id": "PXSB005",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "巴黎",
+	"id": "PXSB006",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "全能驱逐者",
+	"id": "PXSB007",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Igor",
+	"id": "PXSC001",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Scarab",
+	"id": "PXSC002",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Svyatozar",
+	"id": "PXSC003",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "银河",
+	"id": "PXSC004",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "扎雅",
+	"id": "PXSC005",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "规则",
+	"id": "PXSC006",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "极光",
+	"id": "PXSC007",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Blade",
+	"id": "PXSD001",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Ghoul",
+	"id": "PXSD002",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Urashima",
+	"id": "PXSD003",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "萤火虫",
+	"id": "PXSD004",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "蓝翠菊",
+	"id": "PXSD005",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "S艇",
+	"id": "PXSD007",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Transylvania",
+	"id": "PXSX001",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "巨人",
+	"id": "PXSX016",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "卡布特",
+	"id": "PXSX017",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "罗瑞娜",
+	"id": "PXSX023",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "阿尼亚",
+	"id": "PXSX024",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "梅德韦女王",
+	"id": "PXSX025",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "坎特伯雷",
+	"id": "PXSX026",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "布雷舰",
+	"id": "PXSX033",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "约翰·卡特林",
+	"id": "PXSX034",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "梅德韦女王",
+	"id": "PXSX043",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Cimarron civil",
+	"id": "PXSX044",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Liberty civil",
+	"id": "PXSX045",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "Intania Queen",
+	"id": "PXSX743",
+	"type": "other",
+	"nation": "other",
+	"tier": "0"
+}, {
+	"name": "成安",
+	"id": "PZSC101",
+	"type": "cl",
+	"nation": "panasia",
+	"tier": "1"
+}, {
+	"name": "黄河",
+	"id": "PZSC506",
+	"type": "cl",
+	"nation": "panasia",
+	"tier": "6"
+}, {
+	"name": "龙江",
+	"id": "PZSD102",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "2"
+}, {
+	"name": "帕禳",
+	"id": "PZSD103",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "3"
+}, {
+	"name": "沈阳",
+	"id": "PZSD104",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "4"
+}, {
+	"name": "建威",
+	"id": "PZSD105",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "5"
+}, {
+	"name": "抚顺",
+	"id": "PZSD106",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "6"
+}, {
+	"name": "加札马达",
+	"id": "PZSD107",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "7"
+}, {
+	"name": "咸阳",
+	"id": "PZSD108",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "8"
+}, {
+	"name": "忠武",
+	"id": "PZSD109",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "9"
+}, {
+	"name": "岳阳",
+	"id": "PZSD110",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "10"
+}, {
+	"name": "鞍山",
+	"id": "PZSD506",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "6"
+}, {
+	"name": "洛阳",
+	"id": "PZSD508",
+	"type": "dd",
+	"nation": "panasia",
+	"tier": "8"
+}]
